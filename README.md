@@ -15,7 +15,8 @@ Dataset used: Agricultural and Rural Development - Rwanda
 Source: https://data.humdata.org/dataset/world-bank-agriculture-and-rural-development-indicators-for-rwanda
 
 File location: C:/Users/HP/Desktop/agriculture_features_final.csv
-
+### running the codes using jupyter notebook
+source:http://localhost:8888/notebooks/jupyter%20notebook.ipynb
 ## Data Processing
 Loaded dataset into Jupyter Notebook
 code
