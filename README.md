@@ -88,7 +88,11 @@ print("✅ Exported cleaned and enriched dataset to:", export_path)
 ### screenshoot of exported cleaned datasets 
 <img width="885" height="148" alt="Exported  cleaned and enriched dataset power BI" src="https://github.com/user-attachments/assets/ea5cc831-661c-4870-a22b-7d03d8f3380c" />
 
-### Power BI Report Instructions 
+### Power BI Report Instructions
+## screensoot of power bi
+<img width="950" height="469" alt="power BI" src="https://github.com/user-attachments/assets/48d99de1-2c46-41b2-b2aa-7b50ad51c185" />
+
+
 
 Visualizations to Include: 
 
@@ -140,6 +144,23 @@ Values: Count of entries or average Value
 Visual: Filled map
 Location: Country or region
 Values: Value of selected indicator
+📊 Methodology
+⚙️ 1. Data Preprocessing (Python)
+Library Tools: pandas, numpy, matplotlib, seaborn, sklearn
+
+### 📊 Methodology
+  Data Preprocessing (Python)
+Library Tools: pandas, numpy, matplotlib, seaborn, sklearn
+
+Steps:
+
+Handled missing values
+
+Renamed inconsistent columns
+
+Converted data types and scaled numeric fields
+
+Exported cleaned dataset for Power BI use
 
 ## Contact
 For questions or clarifications,
