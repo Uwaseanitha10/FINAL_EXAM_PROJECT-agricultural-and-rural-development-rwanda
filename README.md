@@ -4,8 +4,10 @@
 ## Prepared by: Uwase Anitha
 ## ID: 26945
 
-### Project description
-This project analyzes Rwanda’s agricultural and rural development indicators using data from the World Bank. The data is cleaned, enriched, and visualized to identify key trends, seasonal patterns, and insights to support sustainable development policies.
+### 📊 Project Overview
+This capstone project uses Big Data Analytics and Visualization to explore the state of agriculture and rural development in Rwanda.
+By applying Python for data cleaning, exploratory analysis, and clustering models, we uncover key trends in land use,
+rural electrification, crop production, and population indicators. The findings are presented in an interactive Power BI dashboard, enabling stakeholders to explore insights and development phases visually.
 
 Dataset
 Dataset used: Agricultural and Rural Development - Rwanda
@@ -144,12 +146,10 @@ Values: Count of entries or average Value
 Visual: Filled map
 Location: Country or region
 Values: Value of selected indicator
-📊 Methodology
-⚙️ 1. Data Preprocessing (Python)
-Library Tools: pandas, numpy, matplotlib, seaborn, sklearn
 
 ### 📊 Methodology
-  Data Preprocessing (Python)
+  Data Preprocessing (Python)  
+  
 Library Tools: pandas, numpy, matplotlib, seaborn, sklearn
 
 Steps:
